@@ -8,7 +8,10 @@ Para  realização deste projeto foram utilizados:
 * Renderização condicional e 
 * Styled-components  
 ## O projeto foi criado em 3 grandes partes: ㅤ 
-### Pagina da criação da Playlists  -Mostrando a funcionalidade de criar uma playlists  
-### Página que imprime as playtlists  -Mostrar todas os playlist criadas e opção de excluir essas playlists;  -Mostar detalhes das Playlistsㅤ ㅤ 
-### Página que adiciona música nas Playlist -Mostrar inputs controlados de nome, artista e url -Adicionar a música na playlist  
+### Pagina da criação da Playlists  
+-Mostrando a funcionalidade de criar uma playlists  
+### Página que imprime as playtlists  
+-Mostrar todas os playlist criadas e opção de excluir essas playlists;  -Mostar detalhes das Playlistsㅤ ㅤ 
+### Página que adiciona música nas Playlist 
+-Mostrar inputs controlados de nome, artista e url -Adicionar a música na playlist  
 ## [Acesse o site aqui](https://oval-animal.surge.sh/)
