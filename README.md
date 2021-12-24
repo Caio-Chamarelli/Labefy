@@ -1,6 +1,7 @@
 # Labefy
 By Caio Chamarelli
-## Objetivo do Projeto A proposta foi criar um site que permita o usuário adicionar playlists á uma lista e poder apagar a playlist que quiser.
+## Objetivo do Projeto
+A proposta foi criar um site que permita o usuário adicionar playlists á uma lista e poder apagar a playlist que quiser.
 Para  realização deste projeto foram utilizados:
 * Requisições de API's, 
 * Componentes de classe, 
